@@ -76,5 +76,11 @@ function Foo() {
 ```
 
 <h2>Step 5:</h2><br>
+Other materials are also widely used to make your sites unique and dynamic. Here, I'd like to introduce you to mesh portal material.<br>
+Here's an example:<br>
+https://r3-f-portal.vercel.app/ <br>
+I suggest that you try to remake the same scene for this 5th step.
+
+<h2>Step 6:</h2><br>
 Enjoy ! If you liked this workshop, don't hesitate to star the repository :) !
 <a href="https://github.com/RayanBn/React-Three-Js-Workshop2">Workshop 2</a>
